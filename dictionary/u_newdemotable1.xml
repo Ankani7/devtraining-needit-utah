@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="6bc5824793373110ced433277bba10b1" label="NewDemoTable1" max_length="40" name="u_newdemotable1" type="collection">
+        <element attributes="encode_utf8=false" label="Name" max_length="32" name="x_58872_needit_name" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="x_58872_needit_name"/>
+        </index>
+    </element>
+</database>
